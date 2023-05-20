@@ -16,7 +16,7 @@ Must enable xenon headlights before it'll take affect.
 List of colors and ids:
 ```
 enum headlightColors {
-    Default = -1,
+    Default = 255,
     White = 0,
     Blue = 1,
     Electric_Blue = 2,
